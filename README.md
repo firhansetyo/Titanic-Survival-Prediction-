@@ -57,14 +57,6 @@ Here are some example visualizations from this project:
 
 ---
 
-### **📌 How to Run**
-1. Clone the repository:
-   git clone https://github.com/your-username/your-repo-name.git
-2. Open the `.ipynb` file in Google Colab or Jupyter Notebook.
-3. Run all the cells sequentially.
-
----
-
 ### **✨ Author**
 Firhan Setyo Pambudi  
 🔗 [LinkedIn – Firhan Setyo Pambudi](https://www.linkedin.com/in/firhansetyo)
